@@ -62,6 +62,14 @@ button {
     background-color: var(--color-4);
 }
 
+#magic1Btn {
+    background-color: var(--color-5);
+}
+
+#magic2Btn {
+    background-color: var(--color-5);
+}
+
 button:focus {
     outline: none;
 }
